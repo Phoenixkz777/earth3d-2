@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Gadgets
+* source:	https://sketchfab.com/3d-models/modern-gadgets-ab36d3ecad9d480c8d3232addb0caf03
+* author:	SINNIK (https://sketchfab.com/sinnik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Gadgets" (https://sketchfab.com/3d-models/modern-gadgets-ab36d3ecad9d480c8d3232addb0caf03) by SINNIK (https://sketchfab.com/sinnik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
